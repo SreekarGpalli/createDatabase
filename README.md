@@ -1,4 +1,4 @@
-# Wholesale Store Database
+# Wholesale Store Database (MySQL)
 
 ## Executive Summary
 
