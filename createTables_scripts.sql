@@ -1,5 +1,6 @@
 -- ------------------------------------------------------------------------
 -- Wholesale_Store Database Creation Script
+-- Author: Sreekar Reddy Gownivaripalli
 -- ------------------------------------------------------------------------
 -- This script creates the Wholesale_Store database (if it doesn't already exist)
 -- and then creates all the necessary tables for managing categories, clients,
